@@ -1,303 +1,72 @@
-<!-- 
-█████████████████████████████████████████████████████████████████████████████████
-█░░░░░░░░░░░░░░░░░░███████████░░░░░░░░░░░░░░░░░░░░░███████████░░░░░░░░░░░░░░░░░░█
-█░░▄▀▄▀▄▀▄▀▄▀▄▀░░░░███████████░░▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀░░███████████░░▄▀▄▀▄▀▄▀▄▀▄▀▄▀░░█
-█░░░░░░░░░░▄▀▄▀░░░░███████████░░▄▀░░░░░░░░░░▄▀░░░░███████████░░▄▀░░░░░░░░░░▄▀░░█
-█████████░░▄▀░░░░░░███████████░░▄▀░░████░░░░▄▀░░░░███████████░░▄▀░░████░░░░▄▀░░█
-█████████░░▄▀░░░░░░███████████░░▄▀░░░░░░░░░░▄▀░░░░███████████░░▄▀░░░░░░░░░░▄▀░░█
-█████████░░▄▀░░░░░░███████████░░▄▀▄▀▄▀▄▀▄▀▄▀▄▀░░░░███████████░░▄▀▄▀▄▀▄▀▄▀▄▀▄▀░░█
-█████████░░▄▀░░░░░░███████████░░░░░░░░░░░░░░▄▀░░░░███████████░░░░░░░░░░░░░░░░░░█
-█████████░░▄▀░░░░░░███████████████████████░░▄▀░░░░███████████████████████████████
-█████████░░▄▀░░░░░░███████████░░░░░░░░░░░░░░▄▀░░░░███████████████████████████████
-█████████░░░░░░░░░░███████████░░▄▀▄▀▄▀▄▀▄▀▄▀▄▀░░░░███████████████████████████████
-█████████████████████████████████████████████████████████████████████████████████
--->
-
 <div align="center">
-
-<!-- BREACH ALERT HEADER -->
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                   ║
-║   ██████╗ ██████╗ ███████╗ █████╗  ██████╗██╗  ██╗    ██████╗ ███████╗████████╗███████╗ ██████╗████████╗███████╗██████╗  ║
-║   ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██║  ██║    ██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗ ║
-║   ██████╔╝██████╔╝█████╗  ███████║██║     ███████║    ██║  ██║█████╗     ██║   █████╗  ██║        ██║   █████╗  ██║  ██║ ║
-║   ██╔══██╗██╔══██╗██╔══╝  ██╔══██║██║     ██╔══██║    ██║  ██║██╔══╝     ██║   ██╔══╝  ██║        ██║   ██╔══╝  ██║  ██║ ║
-║   ██████╔╝██║  ██║███████╗██║  ██║╚██████╗██║  ██║    ██████╔╝███████╗   ██║   ███████╗╚██████╗   ██║   ███████╗██████╔╝ ║
-║   ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝╚═════╝  ║
-║                                                                                                   ║
-║                         ⚠️  UNAUTHORIZED ACCESS DETECTED  ⚠️                                      ║
-║                                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-<!-- GLITCH EFFECT NAME -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+SYSTEM+BREACH+IN+PROGRESS+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E%3E%3E+ACCESSING+MAINFRAME...;%3E%3E%3E+IDENTITY%3A+ABDELHMEED+ELSHORBAGY" alt="Typing SVG" /></a>
-
----
-
-```
-███████████████████████████████████████████████████████████████████████████████████████
-█                                                                                     █
-█   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   █
-█   ⣿⡟⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⣿⣿⡟⠛⠛⠛⣿⣿⣿⣿⣿⡟⠛⠛⠛⠛⠛⠛⣿⣿⣿⣿⣿⡟⠛⠛⠛⣿⣿⣿⡟⠛⠛⣿⣿⣿⠛⠛⠛⠛⠛⠛⣿⣿⣿   █
-█   ⣿⡇⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⣿⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⡇⠀⣀⣀⣀⠀⠀⣿⣿⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⡇⠀⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿   █
-█   ⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⡇⠀⣿⣿⣿⠀⠀⣿⣿⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿⣿   █
-█   ⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⡇⠀⣿⣿⣿⠀⠀⣿⣿⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⡇⠀⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿   █
-█   ⣿⡇⠀⠀⠀⠉⠉⠉⠉⠉⠉⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠉⠉⠉⠉⣿⡇⠀⠉⠉⠉⠀⠀⣿⣿⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⡇⠀⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿   █
-█   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   █
-█                                                                                     █
-███████████████████████████████████████████████████████████████████████████████████████
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3&height=300&section=header&text=abameda&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20ONLINE%20//%20INITIATING%20UPLINK...&descAlignY=55&descAlign=62" />
 </div>
-
----
-
-<!-- TERMINAL INTERFACE -->
 <div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  ⬤ ⬤ ⬤   root@darknet:~                                                              — □ ✕  ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                                                                  ┃
-┃   [root@darknet]─[~]                                                                             ┃
-┃   └──╼ $ whoami                                                                                  ┃
-┃                                                                                                  ┃
-┃   ▄▀█ █▄▄ █▀▄ █▀▀ █░░ █░█ █▀▄▀█ █▀▀ █▀▀ █▀▄   █▀▀ █░░ █▀ █░█ █▀█ █▀█ █▄▄ ▄▀█ █▀▀ █▄█           ┃
-┃   █▀█ █▄█ █▄▀ ██▄ █▄▄ █▀█ █░▀░█ ██▄ ██▄ █▄▀   ██▄ █▄▄ ▄█ █▀█ █▄█ █▀▄ █▄█ █▀█ █▄█ ░█░           ┃
-┃                                                                                                  ┃
-┃   [root@darknet]─[~]                                                                             ┃
-┃   └──╼ $ cat /etc/shadow/identity.conf                                                           ┃
-┃                                                                                                  ┃
-┃   ╔══════════════════════════════════════════════════════════════════════════════════════╗       ┃
-┃   ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║       ┃
-┃   ║  ▓                                                                                ▓  ║       ┃
-┃   ║  ▓   CODENAME     :  abameda                                                      ▓  ║       ┃
-┃   ║  ▓   REAL_NAME    :  Abdelhmeed Elshorbagy                                        ▓  ║       ┃
-┃   ║  ▓   LOCATION     :  Egypt [EG] 🇪🇬                                               ▓  ║       ┃
-┃   ║  ▓   SPECIALTY    :  Full Stack Development | Security Research | Exploitation   ▓  ║       ┃
-┃   ║  ▓   STATUS       :  ████████████████████████████ [ACTIVE]                        ▓  ║       ┃
-┃   ║  ▓   THREAT_LEVEL :  ██████████░░░░░░░░░░ [CRITICAL]                              ▓  ║       ┃
-┃   ║  ▓                                                                                ▓  ║       ┃
-┃   ║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║       ┃
-┃   ╚══════════════════════════════════════════════════════════════════════════════════════╝       ┃
-┃                                                                                                  ┃
-┃   [root@darknet]─[~]                                                                             ┃
-┃   └──╼ $ echo $MISSION                                                                           ┃
-┃   "Break systems. Build better ones. Leave no trace."                                            ┃
-┃                                                                                                  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
+  <h3>
+    <a href="https://shorbagy.space">🌐 SYSTEM PORTFOLIO</a> | 
+    <a href="https://linkedin.com/in/abameda">🔗 LINKEDIN PROTOCOL</a>
+  </h3>
 </div>
-
+<br />
+```bash
+> whoami
+  Name:       Ahmed Elshorbagy (abameda)
+  Role:       IT Specialist && Entrepreneur
+  Location:   Minya, Egypt
+  System:     MacBook M1 Pro
+  Status:     [ONLINE] - Balancing Academics & Business
+```
+<br />
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSC5Wxd/giphy.gif" width="30"> // CHIP_SEQ: ACADEMIC_&_CAREER_LOG
+### 🎓 EDUCATION_MODULE
+*   **Institution:** Minya National University.
+*   **Major:** Computer & Artificial Intelligence.
+*   **Focus:** Operating Systems, Information Systems.
+*   **Year:** Second Year Student.
+### 💼 PROFESSIONAL_DAEMON
+*   **Current Job:** IT Technical Support Specialist @ **Amwag Transport**.
+*   **Current Task:** Network Administration & Active Directory Upskilling.
+*   **Security Clearance:** Level: Admin.
 ---
-
-<!-- HACK TOOLS / SKILLS -->
-<div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  ⬤ ⬤ ⬤   root@darknet:~/arsenal                                                      — □ ✕  ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                                                                  ┃
-┃   [root@darknet]─[~/arsenal]                                                                     ┃
-┃   └──╼ $ ls -la ./weapons/                                                                       ┃
-┃                                                                                                  ┃
-┃   ┌─────────────────────────────────────────────────────────────────────────────────┐            ┃
-┃   │                        ⚔️  OFFENSIVE ARSENAL  ⚔️                                 │            ┃
-┃   ├─────────────────────────────────────────────────────────────────────────────────┤            ┃
-┃   │                                                                                 │            ┃
-┃   │   [▓▓▓▓▓▓▓▓▓▓] JavaScript    [▓▓▓▓▓▓▓▓▓░] TypeScript   [▓▓▓▓▓▓▓▓░░] Python     │            ┃
-┃   │   [▓▓▓▓▓▓▓░░░] Go            [▓▓▓▓▓▓░░░░] Rust         [▓▓▓▓▓▓▓▓▓▓] Bash       │            ┃
-┃   │   [▓▓▓▓▓▓▓▓▓░] React         [▓▓▓▓▓▓▓▓▓▓] Next.js      [▓▓▓▓▓▓▓▓░░] Node.js    │            ┃
-┃   │                                                                                 │            ┃
-┃   └─────────────────────────────────────────────────────────────────────────────────┘            ┃
-┃                                                                                                  ┃
-┃   [root@darknet]─[~/arsenal]                                                                     ┃
-┃   └──╼ $ cat ./infrastructure/                                                                   ┃
-┃                                                                                                  ┃
-┃   ┌─────────────────────────────────────────────────────────────────────────────────┐            ┃
-┃   │                        🛡️  DEFENSE SYSTEMS  🛡️                                  │            ┃
-┃   ├─────────────────────────────────────────────────────────────────────────────────┤            ┃
-┃   │                                                                                 │            ┃
-┃   │   [▓▓▓▓▓▓▓▓▓▓] Linux/Kali    [▓▓▓▓▓▓▓▓▓░] Docker       [▓▓▓▓▓▓▓░░░] Kubernetes │            ┃
-┃   │   [▓▓▓▓▓▓▓▓░░] AWS           [▓▓▓▓▓▓▓▓▓▓] Git          [▓▓▓▓▓▓▓▓▓▓] Vim        │            ┃
-┃   │   [▓▓▓▓▓▓▓▓▓░] MongoDB       [▓▓▓▓▓▓▓▓░░] PostgreSQL   [▓▓▓▓▓▓▓░░░] Redis      │            ┃
-┃   │                                                                                 │            ┃
-┃   └─────────────────────────────────────────────────────────────────────────────────┘            ┃
-┃                                                                                                  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</div>
-
+# <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="30"> // EXEC: ENTREPRENEUR_MODE [DOSE]
+**// PROJECT: DOSE_PERFUMES**
+> *Loading "Dose" configuration... Success.*
+*   **Identity:** Co-Founder [Equity: 60%].
+*   **Product:** High-quality alternative fragrances.
+*   **Tech Responsibility:**
+    *   Shopify Store Management.
+    *   Custom Web-Based ERP System (Finance Tracking).
+    *   Liquid Coding & Performance Optimization.
 ---
-
-<!-- SYSTEM STATS BREACH -->
+# <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> // TECH_STACK_INVENTORY
 <div align="center">
-
-```
-╔═════════════════════════════════════════════════════════════════════════════════════════════════╗
-║   ⚡ INTERCEPTED DATA STREAMS ⚡                                                                ║
-╠═════════════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                                 ║
-║   > Decrypting GitHub activity logs...                                                          ║
-║   > Analyzing commit patterns...                                                                ║
-║   > Extracting contribution data...                                                             ║
-║   > STATUS: DATA BREACH SUCCESSFUL                                                              ║
-║                                                                                                 ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abameda&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&ring_color=ff0000" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abameda&theme=highcontrast&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff6600&currStreakNum=ff0000&sideNums=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&dates=666666" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abameda&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true&custom_title=📡%20INTERCEPTED%20TRANSMISSION%20LOG" />
-
+  **// LANGUAGES**
+  <br>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shopify_Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+  
+  <br><br>
+  **// INTERESTS & SYSTEMS**
+  <br>
+  <img src="https://img.shields.io/badge/Cybersecurity-Success?style=for-the-badge&logo=kali-linux&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-Critical?style=for-the-badge&logo=hackthebox&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Social_Engineering-Warning?style=for-the-badge&logo=person&logoColor=white&color=orange" />
+  <img src="https://img.shields.io/badge/MacOS_M1_Pro-System?style=for-the-badge&logo=apple&logoColor=white&color=gray" />
 </div>
-
 ---
-
-<!-- EXPLOITS / ACHIEVEMENTS -->
+# <img src="https://media.giphy.com/media/26tn33aiU1jFEOQJY/giphy.gif" width="30"> // GIT_STATS_ANALYSIS
 <div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  ⬤ ⬤ ⬤   root@darknet:~/exploits                                                     — □ ✕  ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                                                                  ┃
-┃   [root@darknet]─[~/exploits]                                                                    ┃
-┃   └──╼ $ ./display_achievements.sh                                                               ┃
-┃                                                                                                  ┃
-┃   ╔═══════════════════════════════════════════════════════════════════════════════════╗          ┃
-┃   ║                                                                                   ║          ┃
-┃   ║   🏴‍☠️ CONFIRMED KILLS                                                              ║          ┃
-┃   ║   ════════════════════════════════════════════════════════════════════════════    ║          ┃
-┃   ║                                                                                   ║          ┃
-┃   ║   [✓] HackTheBox      - Systems Pwned: ███████████░░░░░░░░░ 58%                   ║          ┃
-┃   ║   [✓] TryHackMe       - Rooms Cleared: █████████████░░░░░░░ 67%                   ║          ┃
-┃   ║   [✓] CTF Competitions - Flags Captured: █████████░░░░░░░░░░░ 45%                 ║          ┃
-┃   ║   [✓] Bug Bounties    - Vulnerabilities: ███████░░░░░░░░░░░░░ 35%                 ║          ┃
-┃   ║                                                                                   ║          ┃
-┃   ║   TOTAL XP: ████████████████████████████████████░░░░░░░░░░ 78,450                 ║          ┃
-┃   ║                                                                                   ║          ┃
-┃   ╚═══════════════════════════════════════════════════════════════════════════════════╝          ┃
-┃                                                                                                  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<img src="https://github-profile-trophy.vercel.app/?username=abameda&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abameda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00&icon_color=00ff00" alt="abameda's github stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abameda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00" alt="Top Languages" width="48%" />
 </div>
-
----
-
-<!-- SECURE COMMUNICATION CHANNELS -->
+<br />
 <div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  ⬤ ⬤ ⬤   root@darknet:~/comms                                                        — □ ✕  ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                                                                  ┃
-┃   [root@darknet]─[~/comms]                                                                       ┃
-┃   └──╼ $ ./establish_secure_connection.sh                                                        ┃
-┃                                                                                                  ┃
-┃   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] ENCRYPTING CHANNEL...                                   ┃
-┃   [████████████████████████████████████] CONNECTION ESTABLISHED ✓                                ┃
-┃                                                                                                  ┃
-┃   ╔═══════════════════════════════════════════════════════════════════════════════════╗          ┃
-┃   ║                          🔐 SECURE CHANNELS 🔐                                    ║          ┃
-┃   ╠═══════════════════════════════════════════════════════════════════════════════════╣          ┃
-┃   ║                                                                                   ║          ┃
-┃   ║   [01] LinkedIn    ═══════════════════════════════════> linkedin.com/in/abameda   ║          ┃
-┃   ║   [02] Portfolio   ═══════════════════════════════════> www.shorbagy.space        ║          ┃
-┃   ║   [03] Encrypted   ═══════════════════════════════════> abameda.x@icloud.com      ║          ┃
-┃   ║                                                                                   ║          ┃
-┃   ║   ⚠️  ALL COMMUNICATIONS ARE ENCRYPTED END-TO-END                                 ║          ┃
-┃   ║                                                                                   ║          ┃
-┃   ╚═══════════════════════════════════════════════════════════════════════════════════╝          ┃
-┃                                                                                                  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<a href="https://linkedin.com/in/abameda"><img src="https://img.shields.io/badge/LINKEDIN-ff0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" /></a>
-<a href="https://www.shorbagy.space"><img src="https://img.shields.io/badge/PORTFOLIO-ff0000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a1a" /></a>
-<a href="mailto:abameda.x@icloud.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-ff0000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=1a1a1a" /></a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abameda&theme=radical&hide_border=true&background=0D1117&ring=00ff00&fire=00ff00&currStreakSC=00ff00" alt="Streak" />
 </div>
-
----
-
-<!-- VISITOR TRACKING -->
+<br>
 <div align="center">
-
-```
-╔═════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                 ║
-║   📡 TRACKING INCOMING CONNECTIONS...                                                           ║
-║                                                                                                 ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://profile-counter.glitch.me/abameda/count.svg" />
-
-<img src="https://komarev.com/ghpvc/?username=abameda&label=TARGETS%20ACQUIRED&color=ff0000&style=for-the-badge&labelColor=1a1a1a" />
-
-```
-╔═════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                 ║
-║   ⚠️  YOUR IP HAS BEEN LOGGED                                                                   ║
-║   ⚠️  YOUR LOCATION HAS BEEN TRACED                                                             ║
-║   ⚠️  YOUR BROWSER FINGERPRINT: CAPTURED                                                        ║
-║                                                                                                 ║
-║   Just kidding... or am I? 💀                                                                   ║
-║                                                                                                 ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3&height=100&section=footer" />
+  <p><i>System Terminating... Session Closed.</i></p>
 </div>
-
----
-
-<!-- SYSTEM SHUTDOWN -->
-<div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                                                  ┃
-┃   [root@darknet]─[~]                                                                             ┃
-┃   └──╼ $ echo "Thanks for visiting. Your curiosity has been noted."                             ┃
-┃                                                                                                  ┃
-┃   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      ┃
-┃   █ CONNECTION TERMINATED █ LOGS CLEARED █ TRACE ERASED █ SESSION ENDED █ GOODBYE █              ┃
-┃   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      ┃
-┃                                                                                                  ┃
-┃   [Process exited with code 0]                                                                   ┃
-┃                                                                                                  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=footer" width="100%"/>
-
-<!-- 
-█████████████████████████████████████████████████████████████████████████████████████████████████████
-█                                                                                                   █
-█   ██╗   ██╗ ██████╗ ██╗   ██╗    ███████╗ ██████╗ ██╗   ██╗███╗   ██╗██████╗     ███╗   ███╗███████╗█
-█   ╚██╗ ██╔╝██╔═══██╗██║   ██║    ██╔════╝██╔═══██╗██║   ██║████╗  ██║██╔══██╗    ████╗ ████║██╔════╝█
-█    ╚████╔╝ ██║   ██║██║   ██║    █████╗  ██║   ██║██║   ██║██╔██╗ ██║██║  ██║    ██╔████╔██║█████╗  █
-█     ╚██╔╝  ██║   ██║██║   ██║    ██╔══╝  ██║   ██║██║   ██║██║╚██╗██║██║  ██║    ██║╚██╔╝██║██╔══╝  █
-█      ██║   ╚██████╔╝╚██████╔╝    ██║     ╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝    ██║ ╚═╝ ██║███████╗█
-█      ╚═╝    ╚═════╝  ╚═════╝     ╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝     ╚═╝     ╚═╝╚══════╝█
-█                                                                                                   █
-█                          A true hacker always inspects the source code. 👁️                       █
-█                                                                                                   █
-█████████████████████████████████████████████████████████████████████████████████████████████████████
--->
