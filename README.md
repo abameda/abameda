@@ -6,22 +6,26 @@
 
 <div align="center">
   
-```bash
-> neofetch --ascii_distro windows
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ 🔴 🟡 🟢                                          root@github-mainframe:~     ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ [root@github-mainframe]-[~]                                                  ║
+║  └─ $ neofetch --ascii_distro windows                                        ║
+║                                                                              ║
+║   abameda@github-mainframe                                                   ║
+║   ------------------------                                                   ║
+║   OS       : Minya National University (C & AI Student)                      ║
+║   Role     : IT Manager @ Amwag Travel                                       ║
+║   Uptime   : 21 Years                                                        ║
+║   Kernel   : Creative Developer & Cybersecurity Enthusiast                   ║
+║   Shell    : zsh / bash                                                      ║
+║   CPU      : C++, C#, Python, JavaScript                                     ║
+║   Status   :  [ACTIVE]                                                       ║
+║   Mission  : "Break systems. Build better ones. Leave no trace."             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-<pre align="left">
-<b>abameda@github-mainframe</b>
-------------------------------------------
-<b>OS</b>       : Minya National University (C & AI Student)
-<b>Role</b>     : IT Manager @ Amwag Travel
-<b>Uptime</b>   : 2X Years
-<b>Kernel</b>   : Creative Developer & Cybersecurity Enthusiast
-<b>Shell</b>    : zsh / bash
-<b>CPU</b>      : C++, C#, Python, JavaScript
-<b>Memory</b>   : Always learning...
-<b>Disk</b>     : Full of Projects (Dose Perfume, Custom ERP)
-</pre>  
-
 </div>
 
 <div align="center">
@@ -30,13 +34,22 @@
 
 ### <root/active_processes>
 
-```javascript
-const currentFocus = {
-    workingOn: "Dose Perfume Brand 🧴",
-    learning: ["Ethical Hacking 🔐", "Social Engineering 🎭"],
-    collaboratingOn: "Open Source Security Tools 🛡️",
-    funFact: "I can exit vim... sometimes."
-};
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ 🔴 🟡 🟢       ⚡ active_processes.exe                          PID: 1337      ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ [root@github-mainframe]-[~/active_processes]                                 ║
+║  └─ $ ps aux --sort=-%cpu                                                    ║
+║                                                                              ║
+║  PID    USER      %CPU  %MEM  TIME+  COMMAND                                 ║
+║                                                                              ║
+║  1337   abameda   85.0  45.3  ∞      ./build_brand --name="Dose Perfume" 🧴  ║
+║  2048   abameda   60.5  30.1  24/7   learning --target="Ethical Hacking" 🔐  ║
+║  4096   abameda   45.2  15.8  4:20   training --type="Social Engineering" 🎭 ║
+║  8192   abameda   10.1  05.2  ---    collab --repo="Open Source Tools" 🛡️    ║
+║  9999   root      00.1  00.1  0:01   vim (trying to exit...)                 ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
