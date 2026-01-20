@@ -20,7 +20,7 @@
 <b>CPU</b>      : C++, C#, Python, JavaScript
 <b>Memory</b>   : Always learning...
 <b>Disk</b>     : Full of Projects (Dose Perfume, Custom ERP)
-</pre>
+</pre>  
 
 </div>
 
@@ -107,9 +107,11 @@ const currentFocus = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abameda&bg_color=0d1117&color=00ff00&line=7331d2&point=00ff00&area=true&hide_border=true" alt="Contribution Matrix" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/abameda/abameda/blob/output/github-snake-dark.svg?raw=true" width="100%" alt="Snake Animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
