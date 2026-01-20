@@ -61,11 +61,12 @@ const currentFocus = {
   <img src="https://github-readme-stats.vercel.app/api?username=abameda&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="abameda's github stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abameda&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abameda&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=7b2cbf&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/abameda/abameda/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  <img src="https://github.com/abameda/abameda/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
+  <img src="https://raw.githubusercontent.com/abameda/abameda/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
