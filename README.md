@@ -44,7 +44,27 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,linux,windows,kali&perline=8" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white&color=black" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&color=black" />
 </div>
 
 <div align="center">
@@ -52,9 +72,15 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=apple,vscode,git,powershell,bash&perline=5" />
-  <br>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&color=black" />
 </div>
 
 <div align="center">
