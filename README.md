@@ -142,6 +142,10 @@ const currentFocus = {
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%F0%9F%94%97+SECURE_CHANNELS" alt="Connect Header" />
+</div>
+
+<div align="center">
   <a href="https://www.shorbagy.space">
     <img src="https://img.shields.io/badge/ESTABLISHED_CONNECTION-WWW.SHORBAGY.SPACE-00FF00?style=for-the-badge&logoColor=black" />
   </a>
