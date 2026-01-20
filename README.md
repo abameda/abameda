@@ -1,39 +1,79 @@
-name: Generate Snake
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initialising+System...;Authenticating+User:+'abameda';Access+Granted.;Welcome,+Hacker." alt="Typing SVG" />
+</div>
 
-on:
-  # run automatically every 6 hours
-  schedule:
-    - cron: "0 */6 * * *" 
+<h1 align="center">Based in the Cloud, Rooted in Code.</h1>
+
+<div align="center">
   
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    - main
+```bash
+> neofetch --ascii_distro windows
+```
+<pre align="left">
+<b>abameda@github-mainframe</b>
+---------------------------
+<b>OS</b>       : Minya National University (CS Student)
+<b>Role</b>     : IT Manager @ Amwag Travel
+<b>Uptime</b>   : 2X Years
+<b>Kernel</b>   : Creative Developer & Cybersecurity Enthusiast
+<b>Shell</b>    : zsh / bash
+<b>CPU</b>      : C++, C#, Python, JavaScript
+<b>Memory</b>   : Always learning...
+<b>Disk</b>     : Full of Projects (Dose Perfume, Custom ERP)
+</pre>
 
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+</div>
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
+
+### <root/active_processes>
+
+```javascript
+const currentFocus = {
+    workingOn: "Dose Perfume Brand 🧴",
+    learning: ["Ethical Hacking 🔐", "Social Engineering 🎭"],
+    collaboratingOn: "Open Source Security Tools 🛡️",
+    funFact: "I can exit vim... sometimes."
+};
+```
+
+---
+
+### <root/loaded_modules>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+</div>
+
+---
+
+### <root/network_traffic>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abameda&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="abameda's github stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abameda&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abameda&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=7b2cbf&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abameda/abameda/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/abameda/abameda/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.shorbagy.space">
+    <img src="https://img.shields.io/badge/ESTABLISHED_CONNECTION-WWW.SHORBAGY.SPACE-00FF00?style=for-the-badge&logoColor=black" />
+  </a>
+</div>
