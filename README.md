@@ -64,7 +64,7 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=elshorbagy&color_snake=00ff00&color_dots=161b22,0e4429,006d32,26a641,39d353" alt="Snake Animation" />
+  <img src="https://github-readme-snake.vercel.app/api?username=abameda&color_snake=00ff00&color_dots=161b22,0e4429,006d32,26a641,39d353" alt="Snake Animation" />
 </div>
 
 ---
