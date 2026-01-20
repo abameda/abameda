@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 </div>
 
 ### <root/active_processes>
@@ -40,7 +40,7 @@ const currentFocus = {
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 </div>
 
 <div align="center">
@@ -92,7 +92,7 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 </div>
 
 ### <root/network_traffic>
@@ -112,7 +112,7 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 </div>
 
 <div align="center">
@@ -120,7 +120,7 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 </div>
 
 <div align="center">
