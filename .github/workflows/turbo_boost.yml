@@ -1,0 +1,30 @@
+name: Ghost Turbo Boost
+
+on:
+  workflow_dispatch: # This allows you to run it MANUALLY from the Actions tab
+
+jobs:
+  turbo_boost:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Inject Historical Activity
+        run: |
+          git config --global user.name "Ghost Booster"
+          git config --global user.email "booster@shorbagy.space"
+          
+          # This loop creates 300 commits over the past year to fill the grid instantly
+          for i in {1..300}
+          do
+            # Generate a random date within the last 365 days
+            d=$(date -d "$((RANDOM%365)) days ago" '+%Y-%m-%dT%H:%M:%S')
+            echo "Turbo Pulse at $d" >> .github/turbo_log.txt
+            git add .github/turbo_log.txt
+            GIT_AUTHOR_DATE="$d" GIT_COMMITTER_DATE="$d" git commit -m "Ghost System Pulse [Historical Update]"
+          done
+          
+          git push origin main --force

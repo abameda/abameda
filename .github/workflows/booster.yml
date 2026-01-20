@@ -1,0 +1,24 @@
+name: Ghost Activity Booster
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  boost:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate Activity
+        run: |
+          echo "Last Boost: $(date)" > .github/activity_log.txt
+          git config --global user.name "Ghost Booster"
+          git config --global user.email "booster@shorbagy.space"
+          git add .github/activity_log.txt
+          git commit -m "Ghost Activity Pulse [System Update]" || exit 0
+          git push
