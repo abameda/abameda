@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initialising+System...;Authenticating+User:+'abameda';Access+Granted.;Welcome,+Hacker." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabameda%2Fabameda&count_bg=%2300FF00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
-</div>
-
 <h1 align="center">Based in the Cloud, Rooted in Code.</h1>
 
 <div align="center">
@@ -136,3 +132,8 @@ const currentFocus = {
     <img src="https://img.shields.io/badge/ESTABLISHED_CONNECTION-WWW.SHORBAGY.SPACE-00FF00?style=for-the-badge&logoColor=black" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abameda&label=Profile%20Views&color=00ff41&style=for-the-badge&logo=ghost&labelColor=0d1117" alt="Profile Views" />
+</div>
+
