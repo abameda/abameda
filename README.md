@@ -5,6 +5,10 @@
 <h1 align="center">Based in the Cloud, Rooted in Code.</h1>
 
 <div align="center">
+  <img src="https://komarev.com/gh-badges/badge.svg?username=abameda&style=for-the-badge&label=PROFILE+VIEWS&color=00FF00" alt="Profile Views" />
+</div>
+
+<div align="center">
   
 ```bash
 > neofetch --ascii_distro windows
