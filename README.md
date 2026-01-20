@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initialising+System...;Authenticating+User:+'abameda';Access+Granted.;Welcome,+Hacker." alt="Typing SVG" />
 </div>
 
-<h1 align="center">Based in the Cloud, Rooted in Code.</h1>
-
 <div align="center">
-  <img src="https://komarev.com/gh-badges/badge.svg?username=abameda&style=for-the-badge&label=PROFILE+VIEWS&color=00FF00" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/abameda/count.svg" alt="Profile Views" />
 </div>
+
+<h1 align="center">Based in the Cloud, Rooted in Code.</h1>
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 <pre align="left">
 <b>abameda@github-mainframe</b>
 ------------------------------------------
-<b>OS</b>       : Minya National University (CS Student)
+<b>OS</b>       : Minya National University (C & AI Student)
 <b>Role</b>     : IT Manager @ Amwag Travel
 <b>Uptime</b>   : 2X Years
 <b>Kernel</b>   : Creative Developer & Cybersecurity Enthusiast
