@@ -72,6 +72,12 @@ const currentFocus = {
 ---
 
 <div align="center">
+  <img src="https://github-readme-quotes.vercel.app/quote?theme=dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&outline_color=00000000" alt="Programming Quote" />
+</div>
+
+---
+
+<div align="center">
   <a href="https://www.shorbagy.space">
     <img src="https://img.shields.io/badge/ESTABLISHED_CONNECTION-WWW.SHORBAGY.SPACE-00FF00?style=for-the-badge&logoColor=black" />
   </a>
