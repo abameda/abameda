@@ -72,7 +72,7 @@ const currentFocus = {
 ---
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&outline_color=00000000" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
 </div>
 
 ---
