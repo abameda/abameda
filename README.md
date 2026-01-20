@@ -67,7 +67,7 @@ const currentFocus = {
 
 <div align="center">
   <h3><root/contribution_grid></h3>
-  <img src="https://github.com/abameda/abameda/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake Animation" />
+  <img src="https://github.com/abameda/abameda/blob/output/github-snake.svg?raw=true" alt="Snake Animation" />
 </div>
 
 ---
