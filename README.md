@@ -64,7 +64,8 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abameda/abameda/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/abameda/abameda/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/abameda/abameda/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
 </div>
 
 ---
