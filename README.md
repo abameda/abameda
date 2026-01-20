@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initialising+System...;Authenticating+User:+'elshorbagy';Access+Granted.;Welcome,+Hacker." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initialising+System...;Authenticating+User:+'abameda';Access+Granted.;Welcome,+Hacker." alt="Typing SVG" />
 </div>
 
 <h1 align="center">Based in the Cloud, Rooted in Code.</h1>
@@ -10,7 +10,7 @@
 > neofetch --ascii_distro windows
 ```
 <pre align="left">
-<b>elshorbagy@github-mainframe</b>
+<b>abameda@github-mainframe</b>
 ---------------------------
 <b>OS</b>       : Minya National University (CS Student)
 <b>Role</b>     : IT Manager @ Amwag Travel
@@ -58,13 +58,13 @@ const currentFocus = {
 ### <root/network_traffic>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elshorbagy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="elshorbagy's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abameda&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="abameda's github stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshorbagy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abameda&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=abameda&color_snake=00ff00&color_dots=161b22,0e4429,006d32,26a641,39d353" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/abameda/abameda/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
