@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initialising+System...;Authenticating+User:+'abameda';Access+Granted.;Welcome,+Hacker." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initialising+System...;Authenticating+User:+'abameda';Access+Granted.;Welcome,+Hacker." alt="Typing SVG" />
 </div>
 
 <h1 align="center">Based in the Cloud, Rooted in Code.</h1>
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
 </div>
 
 ### <root/active_processes>
@@ -40,11 +40,11 @@ const currentFocus = {
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%3C%2F%3E+TECH+ARSENAL+%3C%2F%3E" alt="Tech Arsenal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3C%2F%3E+TECH+ARSENAL+%3C%2F%3E" alt="Tech Arsenal" />
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%E2%9A%92%EF%B8%8F+TOOLS+%26+PLATFORMS" alt="Tools & Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%E2%9A%92%EF%B8%8F+TOOLS+%26+PLATFORMS" alt="Tools & Platforms" />
 </div>
 
 <div align="center">
@@ -88,11 +88,11 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%F0%9F%93%A1+INTERCEPTED+DATA" alt="Stats Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%F0%9F%93%A1+INTERCEPTED+DATA" alt="Stats Header" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
 </div>
 
 ### <root/network_traffic>
@@ -112,7 +112,7 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
 </div>
 
 <div align="center">
@@ -120,11 +120,11 @@ const currentFocus = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73024668/192908223-27e1f727-8025-412f-933e-5a0221a97d26.gif" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%F0%9F%94%97+SECURE_CHANNELS" alt="Connect Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%F0%9F%94%97+SECURE_CHANNELS" alt="Connect Header" />
 </div>
 
 <div align="center">
