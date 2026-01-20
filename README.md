@@ -42,25 +42,28 @@ const currentFocus = {
 ### <root/loaded_modules>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%3C%2F%3E+TECH+ARSENAL+%3C%2F%3E" alt="Tech Arsenal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=%3C%2F%3E%20TECH%20ARSENAL%20%3C%2F%3E&fontSize=40&fontColor=00FF00" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,linux,kali&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,linux,windows,kali,shopify&perline=9" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=%E2%9A%92%EF%B8%8F%20TOOLS%20%26%20PLATFORMS&fontSize=35&fontColor=00FF00" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%E2%9A%92%EF%B8%8F+TOOLS+%26+PLATFORMS" alt="Tools & Platforms" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=apple,vscode,git,bash&perline=5" />
+  <img src="https://skillicons.dev/icons?i=apple,vscode,git,powershell,bash&perline=5" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </div>
 
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%F0%9F%93%A1+INTERCEPTED+DATA" alt="Stats Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=%F0%9F%93%A1%20INTERCEPTED%20DATA&fontSize=35&fontColor=00FF00" />
 </div>
 
 ---
