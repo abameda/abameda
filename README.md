@@ -13,6 +13,7 @@
 ║ [root@github-mainframe]-[~]                                                  ║
 ║  └─ $ neofetch --ascii_distro windows                                        ║
 ║                                                                              ║
+║                                                                              ║
 ║   abameda@github-mainframe                                                   ║
 ║   ------------------------                                                   ║
 ║   OS       : Minya National University (C & AI Student)                      ║
@@ -31,6 +32,8 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 </div>
+
+<div align="center">
 
 ### <root/active_processes>
 
@@ -51,6 +54,7 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+<div align="center">
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
