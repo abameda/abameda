@@ -17,14 +17,21 @@ jobs:
           git config --global user.name "Ghost Booster"
           git config --global user.email "73097560+abameda@users.noreply.github.com"
           
-          # This loop creates 300 commits over the past year to fill the grid instantly
-          for i in {1..300}
+          # Generate dense activity for every day in the last year to ensure a FULL grid
+          for day in {1..365}
           do
-            # Generate a random date within the last 365 days
-            d=$(date -d "$((RANDOM%365)) days ago" '+%Y-%m-%dT%H:%M:%S')
-            echo "Turbo Pulse at $d" >> .github/turbo_log.txt
-            git add .github/turbo_log.txt
-            GIT_AUTHOR_DATE="$d" GIT_COMMITTER_DATE="$d" git commit -m "Ghost System Pulse [Historical Update]"
+            # Generate date for 'day' days ago
+            d=$(date -d "$day days ago" '+%Y-%m-%dT%12:00:00')
+            
+            # Generate 3 to 8 commits per day for a lush green graph
+            commits=$((3 + RANDOM % 6))
+            
+            for c in $(seq 1 $commits)
+            do
+                echo "Turbo Pulse Day $day - Commit $c" >> .github/turbo_log.txt
+                git add .github/turbo_log.txt
+                GIT_AUTHOR_DATE="$d" GIT_COMMITTER_DATE="$d" git commit -m "Ghost System Pulse [Historical Update]"
+            done
           done
           
           git push origin main --force
