@@ -15,7 +15,7 @@ jobs:
       - name: Inject Historical Activity
         run: |
           git config --global user.name "Ghost Booster"
-          git config --global user.email "booster@shorbagy.space"
+          git config --global user.email "73097560+abameda@users.noreply.github.com"
           
           # This loop creates 300 commits over the past year to fill the grid instantly
           for i in {1..300}

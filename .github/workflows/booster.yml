@@ -18,7 +18,7 @@ jobs:
         run: |
           echo "Last Boost: $(date)" > .github/activity_log.txt
           git config --global user.name "Ghost Booster"
-          git config --global user.email "booster@shorbagy.space"
+          git config --global user.email "73097560+abameda@users.noreply.github.com"
           git add .github/activity_log.txt
           git commit -m "Ghost Activity Pulse [System Update]" || exit 0
           git push
