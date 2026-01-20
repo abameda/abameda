@@ -62,7 +62,7 @@ const currentFocus = {
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abameda&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abameda&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideLabels=00ff00&sideNums=00ff00&dates=00ff00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abameda&theme=dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&currStreakNum=00ff00&sideLabels=00ff00&sideNums=00ff00&dates=00ff00&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
