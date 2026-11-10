@@ -1,158 +1,31 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initialising+System...;Authenticating+User:+'abameda';Access+Granted.;Welcome,+Hacker." alt="Typing SVG" />
-</div>
+<p align="center"><a href="https://www.abdelhmeed.com"><picture><source media="(max-width: 600px)" srcset="assets/m-hero.svg"><img src="assets/hero.svg" width="100%" alt="Abdelhmeed Elshorbagy: Creative engineer. An isometric city at dusk on the Nile where every building is one of his projects."></picture></a></p>
 
-<h1 align="center">Based in the Cloud, Rooted in Code.</h1>
+<p align="center">
+<b>Creative engineer</b> from Minya, Egypt. Server Administrator at <b>Amwag Travel</b> (previously IT Help Desk).<br>
+Computer Science & AI student, Minya National University. Founder of DÖSE, an Egyptian niche fragrance house.<br>
+<sub>Bilingual product builder (Arabic / English) · Cybersecurity enthusiast</sub>
+</p>
 
-<div align="center">
-  
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ 🔴 🟡 🟢                                          root@github-mainframe:~     ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ [root@github-mainframe]-[~]                                                  ║
-║  └─ $ neofetch --ascii_distro windows                                        ║
-║                                                                              ║
-║                                                                              ║
-║   abameda@github-mainframe                                                   ║
-║   ------------------------                                                   ║
-║   OS       : Minya National University (C & AI Student)                      ║
-║   Role     : IT Manager @ Amwag Travel                                       ║
-║   Uptime   : 21 Years                                                        ║
-║   Kernel   : Creative Developer & Cybersecurity Enthusiast                   ║
-║   Shell    : zsh / bash                                                      ║
-║   CPU      : C++, C#, Python, JavaScript                                     ║
-║   Status   :  [ACTIVE]                                                       ║
-║   Mission  : "Break systems. Build better ones. Leave no trace."             ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-</div>
+<p><a href="https://cortex-pi-sable.vercel.app"><picture><source media="(max-width: 600px)" srcset="assets/m-project-cortex.svg"><img src="assets/project-cortex.svg" width="100%" alt="01 CORTEX, AI agency platform: Egypt's first autonomous AI agency: designs, builds and runs complete brand ecosystems."></picture></a></p>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
-</div>
+<p><a href="https://www.abdelhmeed.com/work/dose-fragrance.html"><picture><source media="(max-width: 600px)" srcset="assets/m-project-dose.svg"><img src="assets/project-dose.svg" width="100%" alt="02 DÖSE, Fragrance brand + store (founder): A premium store for an Egyptian niche fragrance house: product storytelling, cart and discount logic, and the Find Your DÖSE discovery flow."></picture></a></p>
 
-<div align="center">
+<p><a href="https://www.abdelhmeed.com/work/amwag-attendance.html"><picture><source media="(max-width: 600px)" srcset="assets/m-project-attendance.svg"><img src="assets/project-attendance.svg" width="100%" alt="03 AMWAG ATTENDANCE, Production workforce platform: Bilingual attendance platform for a multi-branch company: branch and IP validation, role-based access, analytics, PDF reports, backups."></picture></a></p>
 
-### <root/active_processes>
+<p><a href="https://r5depifinalproject.vercel.app"><picture><source media="(max-width: 600px)" srcset="assets/m-project-bosla.svg"><img src="assets/project-bosla.svg" width="100%" alt="04 BOSLA, Job-market intelligence (DEPI R5 final project): Pipeline + dashboard over 588,545 unique tech job postings from 8 sources, 159 countries and 1,475 skills, showing where the jobs are and what to learn next."></picture></a></p>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ 🔴 🟡 🟢       ⚡ active_processes.exe                          PID: 1337      ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║ [root@github-mainframe]-[~/active_processes]                                 ║
-║  └─ $ ps aux --sort=-%cpu                                                    ║
-║                                                                              ║
-║  PID    USER      %CPU  %MEM  TIME+  COMMAND                                 ║
-║                                                                              ║
-║  1337   abameda   85.0  45.3  ∞      ./build_brand --name="Dose Perfume" 🧴  ║
-║  2048   abameda   60.5  30.1  24/7   learning --target="Ethical Hacking" 🔐  ║
-║  4096   abameda   45.2  15.8  4:20   training --type="Social Engineering" 🎭 ║
-║  8192   abameda   10.1  05.2  ---    collab --repo="Open Source Tools" 🛡️    ║
-║  9999   root      00.1  00.1  0:01   vim (trying to exit...)                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-<div align="center">
+<p><a href="https://cortex-ops.vercel.app"><picture><source media="(max-width: 600px)" srcset="assets/m-project-cortex-ops.svg"><img src="assets/project-cortex-ops.svg" width="49.9%" alt="05 CORTEX OPS, Internal command surface: The internal operations dashboard behind Cortex client workspaces and delivery."></picture></a><a href="https://github.com/abameda/3D-Cloth-App"><picture><source media="(max-width: 600px)" srcset="assets/m-project-thread.svg"><img src="assets/project-thread.svg" width="49.9%" alt="06 THREAD, 3D wardrobe app: Take photos, and Thread reconstructs your real avatar and clothes in 3D on your own computer, so you can try on outfits."></picture></a></p>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
-</div>
+<p><a href="https://sms-mnu.vercel.app"><picture><source media="(max-width: 600px)" srcset="assets/m-project-mnu-sms.svg"><img src="assets/project-mnu-sms.svg" width="49.9%" alt="07 MNU SMS, University student management system: Student Management System for Minya National University: academic records, grades, attendance and transcripts."></picture></a><a href="https://github.com/abameda/Amwag-Printer-Driver"><picture><source media="(max-width: 600px)" srcset="assets/m-project-printer.svg"><img src="assets/project-printer.svg" width="49.9%" alt="08 AMWAG PRINTER SETUP, Windows deployment tool: One click sets up a branch ticket printer correctly every time: driver, custom paper size, tray and scale."></picture></a></p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3C%2F%3E+TECH+ARSENAL+%3C%2F%3E" alt="Tech Arsenal" />
-</div>
+<p><a href="https://github.com/abameda/Yosr-LMS"><picture><source media="(max-width: 600px)" srcset="assets/m-project-yosr.svg"><img src="assets/project-yosr.svg" width="100%" alt="09 YOSR, Learning platform (in design): A learning management system, currently being designed doc-first: product brief, MVP scope and architecture decisions before code."></picture></a></p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Liquid-95BF47?style=for-the-badge&logo=shopify&logoColor=white&color=black" />
-</div>
+<p><a href="https://github.com/abameda?tab=repositories"><picture><source media="(max-width: 600px)" srcset="assets/m-toolbox.svg"><img src="assets/toolbox.svg" width="100%" alt="Market Street, the toolbox. languages: TypeScript, JavaScript, C#, C++, Python, HTML/CSS; frameworks: Next.js, React, React Native / Expo, Shopify / Liquid; data: MySQL / MariaDB; infra: Vercel, Windows Server, Linux, Git; security: Kali Linux, Burp Suite"></picture></a></p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&color=black" />
-</div>
+<p><a href="https://github.com/abameda"><picture><source media="(max-width: 600px)" srcset="assets/m-census.svg"><img src="assets/census.svg" width="100%" alt="Census Square: 309 contributions in the last 12 months, drawn as a city district where each contribution is one floor. 277 commits, 21 pull requests, 76 in the last 30 days."></picture></a></p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%E2%9A%92%EF%B8%8F+TOOLS+%26+PLATFORMS" alt="Tools & Platforms" />
-</div>
+<p><a href="https://github.com/abameda"><picture><source media="(max-width: 600px)" srcset="assets/m-station-hall.svg"><img src="assets/station-hall.svg" width="17.30%" alt="Central Station: 4 stops out of the city"></picture></a><a href="https://www.abdelhmeed.com"><picture><source media="(max-width: 600px)" srcset="assets/m-station-website.svg"><img src="assets/station-website.svg" width="20.40%" alt="Stop 1: WEBSITE, abdelhmeed.com"></picture></a><a href="https://www.linkedin.com/in/elshorbagy/"><picture><source media="(max-width: 600px)" srcset="assets/m-station-linkedin.svg"><img src="assets/station-linkedin.svg" width="20.40%" alt="Stop 2: LINKEDIN, in/elshorbagy"></picture></a><a href="https://www.abdelhmeed.com/assets/Abdelhmeed-Elshorbagy-CV.pdf"><picture><source media="(max-width: 600px)" srcset="assets/m-station-cv.svg"><img src="assets/station-cv.svg" width="20.40%" alt="Stop 3: CV, résumé · pdf"></picture></a><a href="https://github.com/abameda"><picture><source media="(max-width: 600px)" srcset="assets/m-station-github.svg"><img src="assets/station-github.svg" width="21.39%" alt="Stop 4: GITHUB, @abameda"></picture></a></p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&color=black" />
-</div>
+<p align="center"><sub>Every building is a real project. The lights, the towers and the census are rebuilt daily from live GitHub data. Last census: 10 NOV 2026.</sub></p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%F0%9F%93%A1+INTERCEPTED+DATA" alt="Stats Header" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
-</div>
-
-### <root/network_traffic>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abameda&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="abameda's github stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abameda&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app?user=abameda&theme=dark&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=00ff00&sideNums=00ff00&dates=00ff00&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abameda&bg_color=0d1117&color=00ff00&line=7331d2&point=00ff00&area=true&hide_border=true" alt="Contribution Matrix" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%F0%9F%94%97+SECURE_CHANNELS" alt="Connect Header" />
-</div>
-
-<div align="center">
-  <a href="https://www.shorbagy.space">
-    <img src="https://img.shields.io/badge/ESTABLISHED_CONNECTION-WWW.SHORBAGY.SPACE-00FF00?style=for-the-badge&logoColor=black" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abameda&label=Profile%20Views&color=00ff41&style=for-the-badge&logo=ghost&labelColor=0d1117" alt="Profile Views" />
-</div>
-
+<p align="center">This profile exists in three worlds: <b>The City</b> · <a href="https://github.com/abameda/abameda/tree/main/worlds/circuit#readme">The Circuit Board</a> · <a href="https://github.com/abameda/abameda/tree/main/worlds/blueprint#readme">The Blueprint</a></p>

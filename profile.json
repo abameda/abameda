@@ -1,0 +1,114 @@
+{
+  "login": "abameda",
+  "name": "Abdelhmeed Elshorbagy",
+  "firstName": "Abdelhmeed",
+  "lastName": "Elshorbagy",
+  "role": "Server Administrator",
+  "previousRole": "IT Help Desk",
+  "company": "Amwag Travel",
+  "location": "Minya, Egypt",
+  "education": "Computer Science & AI student, Minya National University",
+  "identity": [
+    "Creative engineer",
+    "Bilingual product builder (Arabic / English)",
+    "Cybersecurity enthusiast",
+    "Founder of DÖSE, an Egyptian niche fragrance house"
+  ],
+  "links": {
+    "website": "https://www.abdelhmeed.com",
+    "linkedin": "https://www.linkedin.com/in/elshorbagy/",
+    "cv": "https://www.abdelhmeed.com/assets/Abdelhmeed-Elshorbagy-CV.pdf",
+    "github": "https://github.com/abameda"
+  },
+  "projects": [
+    {
+      "key": "cortex",
+      "name": "CORTEX",
+      "repo": "CORTEX",
+      "url": "https://cortex-pi-sable.vercel.app",
+      "kind": "AI agency platform",
+      "line": "Egypt's first autonomous AI agency: designs, builds and runs complete brand ecosystems.",
+      "tagline": "Your brand, engineered. Cortex operates while you sleep.",
+      "stack": ["Next.js", "TypeScript"]
+    },
+    {
+      "key": "cortex-ops",
+      "name": "CORTEX OPS",
+      "repo": "CORTEX-OPS",
+      "url": "https://cortex-ops.vercel.app",
+      "kind": "Internal command surface",
+      "line": "The internal operations dashboard behind Cortex client workspaces and delivery.",
+      "stack": ["Next.js", "TypeScript"]
+    },
+    {
+      "key": "dose",
+      "name": "DÖSE",
+      "repo": "Dose-Full-Stack",
+      "url": "https://www.abdelhmeed.com/work/dose-fragrance.html",
+      "kind": "Fragrance brand + store (founder)",
+      "line": "A premium store for an Egyptian niche fragrance house: product storytelling, cart and discount logic, and the Find Your DÖSE discovery flow.",
+      "stack": ["Shopify", "Liquid", "TypeScript"]
+    },
+    {
+      "key": "attendance",
+      "name": "AMWAG ATTENDANCE",
+      "repo": "attendance.amwag",
+      "url": "https://www.abdelhmeed.com/work/amwag-attendance.html",
+      "kind": "Production workforce platform",
+      "line": "Bilingual attendance platform for a multi-branch company: branch and IP validation, role-based access, analytics, PDF reports, backups.",
+      "stack": ["Next.js 15", "TypeScript", "MySQL"]
+    },
+    {
+      "key": "bosla",
+      "name": "BOSLA",
+      "repo": "R5_DEPI_Final_Project",
+      "url": "https://r5depifinalproject.vercel.app",
+      "kind": "Job-market intelligence (DEPI R5 final project)",
+      "line": "Pipeline + dashboard over 588,545 unique tech job postings from 8 sources, 159 countries and 1,475 skills, showing where the jobs are and what to learn next.",
+      "stack": ["Data pipeline", "Dashboard"]
+    },
+    {
+      "key": "thread",
+      "name": "THREAD",
+      "repo": "3D-Cloth-App",
+      "url": "https://github.com/abameda/3D-Cloth-App",
+      "kind": "3D wardrobe app",
+      "line": "Take photos, and Thread reconstructs your real avatar and clothes in 3D on your own computer, so you can try on outfits.",
+      "stack": ["React Native", "Expo", "COLMAP / OpenMVS"]
+    },
+    {
+      "key": "mnu-sms",
+      "name": "MNU SMS",
+      "repo": "sms-mnu",
+      "url": "https://sms-mnu.vercel.app",
+      "kind": "University student management system",
+      "line": "Student Management System for Minya National University: academic records, grades, attendance and transcripts.",
+      "stack": ["TypeScript"]
+    },
+    {
+      "key": "printer",
+      "name": "AMWAG PRINTER SETUP",
+      "repo": "Amwag-Printer-Driver",
+      "url": "https://github.com/abameda/Amwag-Printer-Driver",
+      "kind": "Windows deployment tool",
+      "line": "One click sets up a branch ticket printer correctly every time: driver, custom paper size, tray and scale.",
+      "stack": ["C#", "Windows"]
+    },
+    {
+      "key": "yosr",
+      "name": "YOSR",
+      "repo": "Yosr-LMS",
+      "url": "https://github.com/abameda/Yosr-LMS",
+      "kind": "Learning platform (in design)",
+      "line": "A learning management system, currently being designed doc-first: product brief, MVP scope and architecture decisions before code.",
+      "stack": ["TypeScript"]
+    }
+  ],
+  "toolbox": {
+    "languages": ["TypeScript", "JavaScript", "C#", "C++", "Python", "HTML/CSS"],
+    "frameworks": ["Next.js", "React", "React Native / Expo", "Shopify / Liquid"],
+    "data": ["MySQL / MariaDB"],
+    "infra": ["Vercel", "Windows Server", "Linux", "Git"],
+    "security": ["Kali Linux", "Burp Suite"]
+  }
+}
