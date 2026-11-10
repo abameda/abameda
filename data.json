@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T10:17:05.063Z",
+  "generatedAt": "2026-11-10T13:56:49.617Z",
   "user": {
     "login": "abameda",
     "name": "Abdelhmeed Elshorbagy",
@@ -11,13 +11,13 @@
   "totals": {
     "publicRepos": 13,
     "stars": 0,
-    "contributionsLastYear": 309,
-    "commitsLastYear": 277,
+    "contributionsLastYear": 310,
+    "commitsLastYear": 278,
     "pullRequestsLastYear": 21,
     "issuesLastYear": 0,
     "privateContributionsLastYear": 0,
-    "contributionsLast30Days": 76,
-    "currentStreakDays": 0,
+    "contributionsLast30Days": 77,
+    "currentStreakDays": 1,
     "longestStreakDays": 7,
     "busiestDay": {
       "date": "2026-01-20",
@@ -31,70 +31,70 @@
       "color": "#3178c6",
       "bytes": 2840710,
       "repos": 8,
-      "share": 0.3342
+      "share": 0.3191
     },
     {
       "name": "C#",
       "color": "#7355dd",
       "bytes": 2615964,
       "repos": 1,
-      "share": 0.3078
+      "share": 0.2939
     },
     {
       "name": "HTML",
       "color": "#e34c26",
       "bytes": 1529019,
       "repos": 6,
-      "share": 0.1799
+      "share": 0.1718
     },
     {
       "name": "Jupyter Notebook",
       "color": "#DA5B0B",
       "bytes": 674094,
       "repos": 1,
-      "share": 0.0793
+      "share": 0.0757
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "bytes": 617177,
+      "repos": 13,
+      "share": 0.0693
     },
     {
       "name": "Python",
       "color": "#3572A5",
       "bytes": 365510,
       "repos": 3,
-      "share": 0.043
-    },
-    {
-      "name": "JavaScript",
-      "color": "#f1e05a",
-      "bytes": 215034,
-      "repos": 12,
-      "share": 0.0253
+      "share": 0.0411
     },
     {
       "name": "CSS",
       "color": "#663399",
       "bytes": 186037,
       "repos": 11,
-      "share": 0.0219
+      "share": 0.0209
     },
     {
       "name": "Astro",
       "color": "#ff5a03",
       "bytes": 27546,
       "repos": 1,
-      "share": 0.0032
+      "share": 0.0031
     },
     {
       "name": "PowerShell",
       "color": "#012456",
       "bytes": 24196,
       "repos": 2,
-      "share": 0.0028
+      "share": 0.0027
     },
     {
       "name": "PLpgSQL",
       "color": "#336790",
       "bytes": 15963,
       "repos": 3,
-      "share": 0.0019
+      "share": 0.0018
     },
     {
       "name": "Shell",
@@ -112,6 +112,24 @@
     }
   ],
   "repos": [
+    {
+      "name": "abameda",
+      "description": null,
+      "homepage": null,
+      "url": "https://github.com/abameda/abameda",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-10T13:56:39Z",
+      "createdAt": "2026-01-16T13:59:49Z",
+      "primaryLanguage": "JavaScript",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 402143
+        }
+      ]
+    },
     {
       "name": "CORTEX-OPS",
       "description": null,
@@ -466,18 +484,6 @@
           "bytes": 559
         }
       ]
-    },
-    {
-      "name": "abameda",
-      "description": null,
-      "homepage": null,
-      "url": "https://github.com/abameda/abameda",
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-01-23T13:50:46Z",
-      "createdAt": "2026-01-16T13:59:49Z",
-      "primaryLanguage": null,
-      "languages": []
     },
     {
       "name": "elshorbagy-quiz",
@@ -2259,12 +2265,12 @@
     },
     {
       "date": "2026-10-19",
-      "count": 0,
+      "count": 1,
       "weekday": 1
     },
     {
       "date": "2026-10-20",
-      "count": 39,
+      "count": 38,
       "weekday": 2
     },
     {
@@ -2369,7 +2375,7 @@
     },
     {
       "date": "2026-11-10",
-      "count": 0,
+      "count": 1,
       "weekday": 2
     }
   ]
