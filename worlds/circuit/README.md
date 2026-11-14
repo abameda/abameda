@@ -11,7 +11,7 @@
 <a href="https://github.com/abameda"><picture><source media="(max-width: 600px)" srcset="assets/m-scope.svg"><img src="assets/scope.svg" width="100%" align="top" alt="GitHub activity, last 12 months: 314 contributions, 44 active days, longest run 7 days, last contribution 2026-11-11."></picture></a><br>
 <a href="https://www.abdelhmeed.com"><img src="assets/sec-io.svg" width="100%" align="top" alt="Input / output: the board edge connectors"></a><br>
 <a href="https://www.abdelhmeed.com"><img src="assets/io-website.svg" width="25%" align="top" alt="Website: abdelhmeed.com"></a><a href="https://www.linkedin.com/in/elshorbagy/"><img src="assets/io-linkedin.svg" width="25%" align="top" alt="LinkedIn profile"></a><a href="https://www.abdelhmeed.com/assets/Abdelhmeed-Elshorbagy-CV.pdf"><img src="assets/io-cv.svg" width="25%" align="top" alt="Download CV (PDF)"></a><a href="https://github.com/abameda"><img src="assets/io-github.svg" width="25%" align="top" alt="GitHub profile: @abameda"></a><br>
-<a href="https://www.abdelhmeed.com"><img src="assets/footer.svg" width="100%" align="top" alt="Board footer: rebuilt daily from live GitHub data, last build 2026.11.13."></a>
+<a href="https://www.abdelhmeed.com"><img src="assets/footer.svg" width="100%" align="top" alt="Board footer: rebuilt daily from live GitHub data, last build 2026.11.14."></a>
 </p>
 
 <p align="center"><b>Abdelhmeed Elshorbagy</b> · Server Administrator at Amwag Travel · Minya, Egypt<br>
@@ -39,7 +39,7 @@
 - **Infra:** Vercel, Windows Server, Linux, Git
 - **Security:** Kali Linux, Burp Suite
 
-<sub>Board re-routed daily from live GitHub data · last build 2026.11.13</sub>
+<sub>Board re-routed daily from live GitHub data · last build 2026.11.14</sub>
 </details>
 
 <p align="center">This profile exists in three worlds: <a href="https://github.com/abameda">The City</a> · <b>The Circuit Board</b> · <a href="https://github.com/abameda/abameda/tree/main/worlds/blueprint#readme">The Blueprint</a></p>
