@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T10:38:07.395Z",
+  "generatedAt": "2026-11-15T11:10:16.169Z",
   "user": {
     "login": "abameda",
     "name": "Abdelhmeed Elshorbagy",
@@ -11,13 +11,13 @@
   "totals": {
     "publicRepos": 13,
     "stars": 0,
-    "contributionsLastYear": 314,
-    "commitsLastYear": 282,
-    "pullRequestsLastYear": 21,
+    "contributionsLastYear": 338,
+    "commitsLastYear": 305,
+    "pullRequestsLastYear": 22,
     "issuesLastYear": 0,
     "privateContributionsLastYear": 0,
-    "contributionsLast30Days": 69,
-    "currentStreakDays": 0,
+    "contributionsLast30Days": 93,
+    "currentStreakDays": 1,
     "longestStreakDays": 7,
     "busiestDay": {
       "date": "2026-01-20",
@@ -29,79 +29,86 @@
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "bytes": 2840710,
+      "bytes": 3026907,
       "repos": 8,
-      "share": 0.3173
+      "share": 0.2855
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "bytes": 2925079,
+      "repos": 6,
+      "share": 0.2759
     },
     {
       "name": "C#",
       "color": "#7355dd",
       "bytes": 2665505,
       "repos": 1,
-      "share": 0.2977
-    },
-    {
-      "name": "HTML",
-      "color": "#e34c26",
-      "bytes": 1529019,
-      "repos": 6,
-      "share": 0.1708
+      "share": 0.2514
     },
     {
       "name": "Jupyter Notebook",
       "color": "#DA5B0B",
       "bytes": 674094,
       "repos": 1,
-      "share": 0.0753
+      "share": 0.0636
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
       "bytes": 617177,
       "repos": 13,
-      "share": 0.0689
+      "share": 0.0582
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "bytes": 365510,
+      "bytes": 428314,
       "repos": 3,
-      "share": 0.0408
+      "share": 0.0404
     },
     {
       "name": "CSS",
       "color": "#663399",
-      "bytes": 186037,
+      "bytes": 187460,
       "repos": 11,
-      "share": 0.0208
+      "share": 0.0177
     },
     {
       "name": "Astro",
       "color": "#ff5a03",
       "bytes": 27546,
       "repos": 1,
-      "share": 0.0031
+      "share": 0.0026
     },
     {
       "name": "PowerShell",
       "color": "#012456",
       "bytes": 26269,
       "repos": 2,
-      "share": 0.0029
+      "share": 0.0025
     },
     {
       "name": "PLpgSQL",
       "color": "#336790",
       "bytes": 15963,
       "repos": 3,
-      "share": 0.0018
+      "share": 0.0015
     },
     {
       "name": "Shell",
       "color": "#89e051",
       "bytes": 4316,
       "repos": 2,
-      "share": 0.0005
+      "share": 0.0004
+    },
+    {
+      "name": "Standard ML",
+      "color": "#dc566d",
+      "bytes": 1914,
+      "repos": 1,
+      "share": 0.0002
     },
     {
       "name": "Batchfile",
@@ -113,13 +120,61 @@
   ],
   "repos": [
     {
+      "name": "R5_DEPI_Final_Project",
+      "description": "this repo for DEPI R5 Final Project ",
+      "homepage": "https://r5depifinalproject.vercel.app",
+      "url": "https://github.com/abameda/R5_DEPI_Final_Project",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-14T16:17:49Z",
+      "createdAt": "2026-10-07T12:45:32Z",
+      "primaryLanguage": "HTML",
+      "languages": [
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "bytes": 2403585
+        },
+        {
+          "name": "Jupyter Notebook",
+          "color": "#DA5B0B",
+          "bytes": 674094
+        },
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "bytes": 531416
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "bytes": 281613
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "bytes": 6635
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 4263
+        },
+        {
+          "name": "Standard ML",
+          "color": "#dc566d",
+          "bytes": 1914
+        }
+      ]
+    },
+    {
       "name": "abameda",
       "description": null,
       "homepage": null,
       "url": "https://github.com/abameda/abameda",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-13T11:12:12Z",
+      "pushedAt": "2026-11-14T10:38:11Z",
       "createdAt": "2026-01-16T13:59:49Z",
       "primaryLanguage": "JavaScript",
       "languages": [
@@ -264,49 +319,6 @@
           "name": "PLpgSQL",
           "color": "#336790",
           "bytes": 5728
-        }
-      ]
-    },
-    {
-      "name": "R5_DEPI_Final_Project",
-      "description": "this repo for DEPI R5 Final Project ",
-      "homepage": "https://r5depifinalproject.vercel.app",
-      "url": "https://github.com/abameda/R5_DEPI_Final_Project",
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-10-29T19:15:11Z",
-      "createdAt": "2026-10-07T12:45:32Z",
-      "primaryLanguage": "HTML",
-      "languages": [
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "bytes": 1007525
-        },
-        {
-          "name": "Jupyter Notebook",
-          "color": "#DA5B0B",
-          "bytes": 674094
-        },
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "bytes": 345219
-        },
-        {
-          "name": "Python",
-          "color": "#3572A5",
-          "bytes": 218809
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "bytes": 5212
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "bytes": 4263
         }
       ]
     },
@@ -543,41 +555,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-09",
-      "count": 0,
-      "weekday": 0
-    },
-    {
-      "date": "2025-11-10",
-      "count": 0,
-      "weekday": 1
-    },
-    {
-      "date": "2025-11-11",
-      "count": 0,
-      "weekday": 2
-    },
-    {
-      "date": "2025-11-12",
-      "count": 0,
-      "weekday": 3
-    },
-    {
-      "date": "2025-11-13",
-      "count": 0,
-      "weekday": 4
-    },
-    {
-      "date": "2025-11-14",
-      "count": 0,
-      "weekday": 5
-    },
-    {
-      "date": "2025-11-15",
-      "count": 0,
-      "weekday": 6
-    },
     {
       "date": "2025-11-16",
       "count": 0,
@@ -2295,7 +2272,7 @@
     },
     {
       "date": "2026-10-25",
-      "count": 17,
+      "count": 18,
       "weekday": 0
     },
     {
@@ -2315,7 +2292,7 @@
     },
     {
       "date": "2026-10-29",
-      "count": 0,
+      "count": 10,
       "weekday": 4
     },
     {
@@ -2395,8 +2372,13 @@
     },
     {
       "date": "2026-11-14",
-      "count": 0,
+      "count": 13,
       "weekday": 6
+    },
+    {
+      "date": "2026-11-15",
+      "count": 0,
+      "weekday": 0
     }
   ]
 }
