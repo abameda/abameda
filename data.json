@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:10:16.169Z",
+  "generatedAt": "2026-11-16T11:40:15.232Z",
   "user": {
     "login": "abameda",
     "name": "Abdelhmeed Elshorbagy",
@@ -17,7 +17,7 @@
     "issuesLastYear": 0,
     "privateContributionsLastYear": 0,
     "contributionsLast30Days": 93,
-    "currentStreakDays": 1,
+    "currentStreakDays": 0,
     "longestStreakDays": 7,
     "busiestDay": {
       "date": "2026-01-20",
@@ -120,6 +120,24 @@
   ],
   "repos": [
     {
+      "name": "abameda",
+      "description": null,
+      "homepage": null,
+      "url": "https://github.com/abameda/abameda",
+      "stars": 0,
+      "forks": 0,
+      "pushedAt": "2026-11-15T11:10:18Z",
+      "createdAt": "2026-01-16T13:59:49Z",
+      "primaryLanguage": "JavaScript",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "bytes": 402143
+        }
+      ]
+    },
+    {
       "name": "R5_DEPI_Final_Project",
       "description": "this repo for DEPI R5 Final Project ",
       "homepage": "https://r5depifinalproject.vercel.app",
@@ -164,24 +182,6 @@
           "name": "Standard ML",
           "color": "#dc566d",
           "bytes": 1914
-        }
-      ]
-    },
-    {
-      "name": "abameda",
-      "description": null,
-      "homepage": null,
-      "url": "https://github.com/abameda/abameda",
-      "stars": 0,
-      "forks": 0,
-      "pushedAt": "2026-11-14T10:38:11Z",
-      "createdAt": "2026-01-16T13:59:49Z",
-      "primaryLanguage": "JavaScript",
-      "languages": [
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "bytes": 402143
         }
       ]
     },
@@ -2379,6 +2379,11 @@
       "date": "2026-11-15",
       "count": 0,
       "weekday": 0
+    },
+    {
+      "date": "2026-11-16",
+      "count": 0,
+      "weekday": 1
     }
   ]
 }
