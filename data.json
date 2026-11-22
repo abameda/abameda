@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:21:14.902Z",
+  "generatedAt": "2026-11-22T11:38:11.679Z",
   "user": {
     "login": "abameda",
     "name": "Abdelhmeed Elshorbagy",
@@ -119,7 +119,7 @@
       "url": "https://github.com/abameda/abameda",
       "stars": 0,
       "forks": 0,
-      "pushedAt": "2026-11-20T11:53:16Z",
+      "pushedAt": "2026-11-21T11:21:16Z",
       "createdAt": "2026-01-16T13:59:49Z",
       "primaryLanguage": "JavaScript",
       "languages": [
@@ -505,41 +505,6 @@
     }
   ],
   "calendar": [
-    {
-      "date": "2025-11-16",
-      "count": 0,
-      "weekday": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 0,
-      "weekday": 1
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0,
-      "weekday": 2
-    },
-    {
-      "date": "2025-11-19",
-      "count": 0,
-      "weekday": 3
-    },
-    {
-      "date": "2025-11-20",
-      "count": 0,
-      "weekday": 4
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0,
-      "weekday": 5
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0,
-      "weekday": 6
-    },
     {
       "date": "2025-11-23",
       "count": 0,
@@ -2359,6 +2324,11 @@
       "date": "2026-11-21",
       "count": 0,
       "weekday": 6
+    },
+    {
+      "date": "2026-11-22",
+      "count": 0,
+      "weekday": 0
     }
   ]
 }
